@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/aliwi/OneDrive - Queen's University/Desktop/Work/APSC 143 TA/week2/build",
+  "command": "C:\\Strawberry\\c\\bin\\gcc.exe -g -std=gnu11 -o CMakeFiles\\simple.dir\\simple.c.obj -c \"C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\simple.c\"",
+  "file": "C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\simple.c",
+  "output": "CMakeFiles\\simple.dir\\simple.c.obj"
+},
+{
+  "directory": "C:/Users/aliwi/OneDrive - Queen's University/Desktop/Work/APSC 143 TA/week2/build",
+  "command": "C:\\Strawberry\\c\\bin\\gcc.exe -g -std=gnu11 -o CMakeFiles\\safety_monitor.dir\\safety_monitor.c.obj -c \"C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\safety_monitor.c\"",
+  "file": "C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\safety_monitor.c",
+  "output": "CMakeFiles\\safety_monitor.dir\\safety_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/aliwi/OneDrive - Queen's University/Desktop/Work/APSC 143 TA/week2/build",
+  "command": "C:\\Strawberry\\c\\bin\\gcc.exe -g -std=gnu11 -o CMakeFiles\\safety_monitor.dir\\flight_computer.c.obj -c \"C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\flight_computer.c\"",
+  "file": "C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\flight_computer.c",
+  "output": "CMakeFiles\\safety_monitor.dir\\flight_computer.c.obj"
+},
+{
+  "directory": "C:/Users/aliwi/OneDrive - Queen's University/Desktop/Work/APSC 143 TA/week2/build",
+  "command": "C:\\Strawberry\\c\\bin\\gcc.exe -g -std=gnu11 -o CMakeFiles\\traffic_light.dir\\traffic_light_controller.c.obj -c \"C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\traffic_light_controller.c\"",
+  "file": "C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\traffic_light_controller.c",
+  "output": "CMakeFiles\\traffic_light.dir\\traffic_light_controller.c.obj"
+},
+{
+  "directory": "C:/Users/aliwi/OneDrive - Queen's University/Desktop/Work/APSC 143 TA/week2/build",
+  "command": "C:\\Strawberry\\c\\bin\\gcc.exe -g -std=gnu11 -o CMakeFiles\\traffic_light.dir\\traffic_light_system.c.obj -c \"C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\traffic_light_system.c\"",
+  "file": "C:\\Users\\aliwi\\OneDrive - Queen's University\\Desktop\\Work\\APSC 143 TA\\week2\\traffic_light_system.c",
+  "output": "CMakeFiles\\traffic_light.dir\\traffic_light_system.c.obj"
+}
+]

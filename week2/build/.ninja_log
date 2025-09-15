@@ -1,0 +1,17 @@
+# ninja log v6
+26	553	7796666506379558	CMakeFiles/traffic_light.dir/traffic_light_controller.c.obj	e41a15671fc48a6c
+5	583	7796666506158157	CMakeFiles/simple.dir/simple.c.obj	8a0ba84ad3c024b0
+13	610	7796666506238677	CMakeFiles/safety_monitor.dir/safety_monitor.c.obj	2d8171d7947db8ac
+21	691	7796666506319143	CMakeFiles/safety_monitor.dir/flight_computer.c.obj	a146c6adc511c713
+33	735	7796666506434885	CMakeFiles/traffic_light.dir/traffic_light_system.c.obj	aa59a2faa49a4b47
+735	1182	7796666513450895	traffic_light.exe	54837527a5a8d3a3
+691	1197	7796666513025713	safety_monitor.exe	47960ac1169f6435
+583	1226	7796666511937852	simple.exe	67f009f647138156
+45	481	7796667685667394	CMakeFiles/traffic_light.dir/traffic_light_controller.c.obj	e41a15671fc48a6c
+18	484	7796667685386086	CMakeFiles/simple.dir/simple.c.obj	8a0ba84ad3c024b0
+30	513	7796667685506660	CMakeFiles/safety_monitor.dir/safety_monitor.c.obj	2d8171d7947db8ac
+38	580	7796667685586965	CMakeFiles/safety_monitor.dir/flight_computer.c.obj	a146c6adc511c713
+64	594	7796667685843622	CMakeFiles/traffic_light.dir/traffic_light_system.c.obj	aa59a2faa49a4b47
+580	1115	7796667691006485	safety_monitor.exe	47960ac1169f6435
+484	1142	7796667690045258	simple.exe	67f009f647138156
+594	1154	7796667691147695	traffic_light.exe	54837527a5a8d3a3
